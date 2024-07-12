@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp
     
@@ -51,6 +51,10 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
+<a href="https://www.notion.so/Heeju-Kim-e53ba1786d28406abe475bb0e74c6e29">
+    <img
+      src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
+  </a>
 
   <a href="mailto:beetnalhee@gmail.com">
     <img
